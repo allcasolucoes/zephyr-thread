@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/allca/zephyrproject/zephyr/include",
+                "${workspaceFolder}/build/zephyr/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "~/zephyr-sdk-0.14.1/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc",
+            "cStandard": "c17",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
